@@ -4,7 +4,7 @@
   Vulkan Tools
 </h1>
 
-<p align="center"><b>This is the snap for Vulkan Tools, provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and MacOS. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.</p>
+<p align="center"><b>This is the snap for Vulkan Tools, provides Khronos official Vulkan Tools and Utilities that can assist development by enabling developers to verify their applications correct use of the Vulkan API. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.</p>
 
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
@@ -12,9 +12,9 @@
 </p>
 -->
 
-<!-- Uncomment and modify this when you have a screenshot
-![my-snap-name](screenshot.png?raw=true "my-snap-name")
--->
+
+![vulkan-tools](https://user-images.githubusercontent.com/45159366/64080450-21caf800-cca9-11e9-9cb9-95b8362feff0.png?raw=true "vulkan-tools")
+
 
 <p align="center">Published for <img src="https://raw.githubusercontent.com/anythingcodes/slack-emoji-for-techies/gh-pages/emoji/tux.png" align="top" width="24" /> with 💝 by Snapcrafters</p>
 
